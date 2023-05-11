@@ -1,4 +1,7 @@
 
+*.bkup
+*.csv
+*.pyc
 *.pkl
 /.ipynb_checkpoints/
 
